@@ -6,6 +6,7 @@
 // ---------------- BLE ----------------
 #define SERVICE_UUID      "12345678-1234-5678-1234-56789abcdef0"
 #define CHAR_UUID         "12345678-1234-5678-1234-56789abcdef1"
+
 #define BLE_DEVICE_NAME   "PVC-26020007"        // was .env DEVICE_SUFFIX
 
 // ---------------- PAM (USB Host / FTDI FT-X) ----------------
